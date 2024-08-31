@@ -4,6 +4,9 @@
 Predictive maintenance is crucial across various industries to minimize risks and enhance operational efficiency by analyzing equipment data to foresee potential failures. While equipment failures are common across different machines, the ability to predict and prevent such failures is essential. Predictive maintenance involves evaluating equipment conditions through continuous monitoring to preemptively address issues before they escalate.
 This Capstone project aims to forecast machine breakdowns by identifying anomalies within provided data. The dataset comprises over 18,000 rows collected over a few days. The 'y' column in the dataset contains binary labels where 1 signifies an anomaly. Other columns serve as predictors for the model.
 
+# OBJECTIVE:
+To leverage automated anomaly detection to enhance the reliability and efficiency of predictive maintenance practices, ultimately contributing to better equipment management and operational success.
+
 # Steps for Solution:
   1. Exploratory Data Analysis (EDA):
 Perform a thorough analysis to uncover patterns, relationships, and trends.
